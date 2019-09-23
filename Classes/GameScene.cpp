@@ -45,9 +45,8 @@ bool GameLayer::init()
 	if (background != nullptr)
 	{
 		// Stretch the background to fit the screen size.
-		background->setAnchorPoint(origin);
-		background->setPosition(origin);
 		background->setContentSize(visibleSize);
+		background->setPosition(origin + visibleSize / 2);
 
 		this->addChild(background, GAMEPLAY_DEPTH::BACKGROUND);
 	}
@@ -124,8 +123,8 @@ void GameLayer::spawnEnemy()
 		enemy->setVisible(true);
 	}
 
-	int speed = 12;
-	int deltaSpeed = 5;
+	int speed = 25;
+	int deltaSpeed = 10;
 	enemy->setSpeed(RandomHelper::random_int(speed - deltaSpeed, speed + deltaSpeed));
 
 	_enemyIndexToSpawn++;

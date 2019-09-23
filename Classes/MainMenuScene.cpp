@@ -30,13 +30,12 @@ bool MainMenu::init()
     const Vec2 origin = Director::getInstance()->getVisibleOrigin();
 
     // Add background.
-	auto background = Sprite::create("background.png");
+	auto background = Sprite::create("menu/background.png");
     if (background != nullptr)
     {
-		background->setAnchorPoint(origin);
-		background->setPosition(origin);
 		background->setContentSize(visibleSize);
-        this->addChild(background, 2);
+		background->setPosition(origin + visibleSize / 2);
+        this->addChild(background, MAIN_MENU_DEPTH::BACKGROUND);
     }
 
     // Create title.

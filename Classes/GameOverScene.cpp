@@ -34,9 +34,8 @@ bool GameOverScene::init()
 	auto background = Sprite::create("menu/background.png");
 	if (background != nullptr)
 	{
-		background->setAnchorPoint(origin);
-		background->setPosition(origin);
 		background->setContentSize(visibleSize);
+		background->setPosition(origin + visibleSize / 2);
 		this->addChild(background, MAIN_MENU_DEPTH::BACKGROUND);
 	}
 
