@@ -1,0 +1,47 @@
+# ================
+# cocos2d-x
+# ================
+[Bb]in/
+cocosStudio.cfg
+cocosStudio.udf
+
+# ================
+# c++
+# ================
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Debug Object files
+*.o.d
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# ================
+# Windows crap
+# ================
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# ================
+# Mac crap
+# ================
+
+.DS_Store

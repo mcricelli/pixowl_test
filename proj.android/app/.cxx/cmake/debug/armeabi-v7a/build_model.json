@@ -1,0 +1,78 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android",
+      "sdkFolder": "C:\\Users\\marco\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\build\\intermediates",
+      "gradleModulePathName": ":PixowlTest",
+      "moduleRootFolder": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app",
+      "makeFile": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\.cxx",
+      "cxxFolder": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\marco\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DCMAKE_FIND_ROOT_PATH\u003d",
+      "-DANDROID_STL\u003dc++_static",
+      "-DANDROID_TOOLCHAIN\u003dclang",
+      "-DANDROID_ARM_NEON\u003dTRUE"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-frtti -fexceptions -fsigned-char"
+    ],
+    "variantName": "debug",
+    "soFolder": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86"
+    ],
+    "buildTargetSet": [
+      "MyGame"
+    ]
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\.cxx\\cmake\\debug\\armeabi-v7a",
+  "jsonFile": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\.cxx\\cxx\\debug\\armeabi-v7a",
+  "objFolder": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a",
+  "buildCommandFile": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\build_command.txt",
+  "buildOutputFile": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\build_output.txt",
+  "modelOutputFile": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\CMakeLists.txt",
+    "toolchainWrapperFile": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\build_generation_state.json",
+    "cacheKeyFile": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\json_generation_record.json",
+  "compileCommandsJsonFile": "C:\\Users\\marco\\Documents\\Cocos2d-x Proyects\\PixowlTest\\proj.android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\compile_commands.json"
+}

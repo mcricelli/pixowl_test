@@ -1,0 +1,12 @@
+-- using toolchain file:C:\Users\marco\AppData\Local\Android\Sdk\ndk\20.0.5594570\build\cmake\android.toolchain.cmake
+-- PROJECT_NAME:PixowlTest
+-- PROJECT_SOURCE_DIR:C:/Users/marco/Documents/Cocos2d-x Proyects/PixowlTest
+-- COCOS2DX_ROOT_PATH:C:/Users/marco/Documents/Cocos2d-x Proyects/PixowlTest/cocos2d
+-- CMAKE_MODULE_PATH:C:/Users/marco/Documents/Cocos2d-x Proyects/PixowlTest/cocos2d/cmake/Modules/
+-- PROJECT_BINARY_DIR:C:/Users/marco/Documents/Cocos2d-x Proyects/PixowlTest/proj.android/app/.cxx/cmake/debug/arm64-v8a
+-- ENGINE_BINARY_PATH:C:/Users/marco/Documents/Cocos2d-x Proyects/PixowlTest/proj.android/app/.cxx/cmake/debug/arm64-v8a/engine
+-- CMAKE_GENERATOR: Ninja
+-- CMAKE_BUILD_TYPE: Debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/marco/Documents/Cocos2d-x Proyects/PixowlTest/proj.android/app/.cxx/cmake/debug/arm64-v8a

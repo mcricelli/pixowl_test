@@ -1,0 +1,4 @@
+[1/4] Building CXX object CMakeFiles/MyGame.dir/Classes/GameScene.cpp.o
+[2/4] Building CXX object CMakeFiles/MyGame.dir/Classes/MainMenuScene.cpp.o
+[3/4] Building CXX object CMakeFiles/MyGame.dir/Classes/Player.cpp.o
+[4/4] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\arm64-v8a\libMyGame.so

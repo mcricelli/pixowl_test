@@ -1,0 +1,17 @@
+[Aa]ssets
+[Bb]in/
+[Oo]bj/
+[Ll]ibs/
+[Gg]en/
+
+#Auto generated file
+local.properties
+proj.android-studio/.gitignore
+
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
